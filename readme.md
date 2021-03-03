@@ -22,4 +22,4 @@ To get rickshaw in nearby 2000 meters:
 
 To run the server:
     npm install
-	node ./index.html
+    node ./index.html
