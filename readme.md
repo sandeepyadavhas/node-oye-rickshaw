@@ -21,5 +21,6 @@ To get rickshaw in nearby 2000 meters:
     curl --location --request GET 'http://127.0.0.1:8000/api/nearby-rickshaws?longitude=77.0143849&latitude=28.4615351&max_distance_in_meters=2000'
 
 To run the server:
-    npm install
-    node ./index.html
+
+1) npm install
+2) node ./index.html
